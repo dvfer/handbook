@@ -8,63 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4861efa7e0595103",
+            "id": "721c208654f58c25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "python_ds_handbook/Machine learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Machine learning"
             }
           },
           {
-            "id": "1f2904736ea064bb",
+            "id": "dd2e90ef164f9794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "udlb/1.1 Supervised learning.md",
+                "file": "python_ds_handbook/Feature engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Supervised learning"
+              "title": "Feature engineering"
             }
           },
           {
-            "id": "560be636b20bfa5d",
+            "id": "b974278c62243bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "udlb/2.2 Linear regression.md",
+                "file": "In depth - Naive Bayes classification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Linear regression"
-            }
-          },
-          {
-            "id": "e06f0210ac36d4f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "udlb/Problems/2.2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.2"
+              "title": "In depth - Naive Bayes classification"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7efe04de516e85c",
@@ -226,10 +213,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "e06f0210ac36d4f3",
+  "active": "b974278c62243bf0",
   "lastOpenFiles": [
-    "udlb/2.2 Linear regression.md",
+    "python_ds_handbook/Feature engineering.md",
+    "In depth - Naive Bayes classification.md",
+    "python_ds_handbook/Machine learning.md",
     "udlb/Problems/2.2.md",
+    "udlb/2.2 Linear regression.md",
     "udlb/Problems",
     "udlb/1.1 Supervised learning.md",
     "udlb",
