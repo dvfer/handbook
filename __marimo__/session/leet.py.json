@@ -1,0 +1,208 @@
+{
+  "version": "1",
+  "metadata": {
+    "marimo_version": "0.19.7"
+  },
+  "cells": [
+    {
+      "id": "Hbol",
+      "code_hash": "bf3ab6948fb944ff8611cde129ff988c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "gBzy",
+      "code_hash": "d5f942bb323eab01799d4d6b0ff11851",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"175\">175</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ewJh",
+      "code_hash": "3079194f6ace297f1f945c81308e2f9c",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "UaiW",
+      "code_hash": "fe13c49283e9ceec5ac56fdd1b12d745",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='UaiW-0' random-id='d16ccaf0-5449-1d10-1a7a-17f03696340b'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;firstName&#92;&quot;:&#92;&quot;Alice&#92;&quot;,&#92;&quot;lastName&#92;&quot;:&#92;&quot;Bob&#92;&quot;,&#92;&quot;city&#92;&quot;:&#92;&quot;New York City&#92;&quot;,&#92;&quot;state&#92;&quot;:&#92;&quot;New York&#92;&quot;},{&#92;&quot;firstName&#92;&quot;:&#92;&quot;Wang&#92;&quot;,&#92;&quot;lastName&#92;&quot;:&#92;&quot;Allen&#92;&quot;,&#92;&quot;city&#92;&quot;:null,&#92;&quot;state&#92;&quot;:null}]&quot;' data-total-rows='2' data-total-columns='4' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;firstName&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;lastName&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;city&quot;,[&quot;string&quot;,&quot;str&quot;]],[&quot;state&quot;,[&quot;string&quot;,&quot;str&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "fIll",
+      "code_hash": "09577dffe171521ead0628234144e74f",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"176-second-highest-salary\">176. Second Highest Salary</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "iESS",
+      "code_hash": "6405178d7d116450994a87a71ad8e0f0",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "Vccf",
+      "code_hash": "98df25364f4dd56e0e1ce3ab829f9b93",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='Vccf-0' random-id='85086c8e-6592-6441-26b4-2ba3cb7ad0d9'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;salary&#92;&quot;:200}]&quot;' data-total-rows='1' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;salary&quot;,[&quot;integer&quot;,&quot;i64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ZbdU",
+      "code_hash": "4207b87592c1ab7210b0777954b166de",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='ZbdU-0' random-id='95aeb261-b573-6f66-d977-1ded99a5a47f'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;SecondHighestSalary&#92;&quot;:200}]&quot;' data-total-rows='1' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;SecondHighestSalary&quot;,[&quot;integer&quot;,&quot;i64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bcsi",
+      "code_hash": "43cf0daf0e20b8269331a09a08467b52",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='bcsi-0' random-id='17e58edd-af4b-4390-16cc-f70d4135311d'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;SecondHighestSalary&#92;&quot;:200}]&quot;' data-total-rows='1' data-total-columns='1' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;SecondHighestSalary&quot;,[&quot;integer&quot;,&quot;i64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='false' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "swyR",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "FDJz",
+      "code_hash": "f5eaa09f87674877a9631e0c67b8b9de",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"177-nth-highest-salary\">177. nth highest salary</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "bpsN",
+      "code_hash": "caa069f28188eaec384dcf3fc3bf7dc3",
+      "outputs": [
+        {
+          "type": "error",
+          "ename": "sql-error",
+          "evalue": "Parser Error: syntax error at or near \"RETURNS\"\n\nLINE 2:     CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT\n                                                       ^",
+          "traceback": []
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "ueQn",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    },
+    {
+      "id": "IDdw",
+      "code_hash": "cb93316e74995ff79593d68305197d62",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><h3 id=\"178-rank-scores\">178. Rank Scores</h3></span>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "IoSF",
+      "code_hash": "aa395c260f10912051577249be8ba1bf",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/plain": ""
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "UZuI",
+      "code_hash": "30de72cd3f5f6a6a1da01feb43951b71",
+      "outputs": [
+        {
+          "type": "data",
+          "data": {
+            "text/html": "<marimo-ui-element object-id='UZuI-0' random-id='5e81a03d-54f7-a3fe-67a1-5d54b3f94373'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;score&#92;&quot;:4.0,&#92;&quot;rank&#92;&quot;:1},{&#92;&quot;score&#92;&quot;:4.0,&#92;&quot;rank&#92;&quot;:1},{&#92;&quot;score&#92;&quot;:3.85,&#92;&quot;rank&#92;&quot;:2},{&#92;&quot;score&#92;&quot;:3.65,&#92;&quot;rank&#92;&quot;:3},{&#92;&quot;score&#92;&quot;:3.65,&#92;&quot;rank&#92;&quot;:3},{&#92;&quot;score&#92;&quot;:3.5,&#92;&quot;rank&#92;&quot;:4}]&quot;' data-total-rows='6' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;score&quot;,[&quot;number&quot;,&quot;f64&quot;]],[&quot;rank&quot;,[&quot;integer&quot;,&quot;i64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='false' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+          }
+        }
+      ],
+      "console": []
+    },
+    {
+      "id": "KFka",
+      "code_hash": null,
+      "outputs": [],
+      "console": []
+    }
+  ]
+}
